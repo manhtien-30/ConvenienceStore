@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">CheckAttendance</string>
+    <string name="btn_add">ADD IMAGE</string>
+    <string name="btn_check">CHECK FACE</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Log Out</string>
+    <string name="attendcheck">Attend Check</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
